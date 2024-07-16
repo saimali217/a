@@ -1,0 +1,62 @@
+body{
+margin: 0%;
+text-align: center;
+font-family: meriweather, serif ;
+
+}
+h1{
+    color: #66BFBF;
+  font-size:  80px;;
+    margin-top: 0%;
+  font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    color: #66BFBF;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2.5rem;
+}
+h3{
+    color: #66BFBF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.top-container{
+    background-color:white;
+    position: relative;
+    padding-top:  150px ;
+}
+.middle-container{
+    
+  
+}
+.bottom-container{
+    
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+.web{
+    text-decoration: underline;
+}
+.top-cloud{
+    position: absolute;
+    right: 100px;
+    top: 50px;
+}
+.bottom-cloud{
+    position:absolute;
+   left: 150px;
+   top: 150px;
+}
+.computer-img{
+    width: 25%;
+    float: left;
+    margin: right 30px;;
+}
+.theory-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
